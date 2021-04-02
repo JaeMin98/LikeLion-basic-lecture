@@ -17,7 +17,7 @@ GitHub를 통해 html파일을 배포할 때 <strong>index.html이 포함</stron
 ### 🔸GitHub를 통해 html 배포 URL  
 파일 업로드 후 <strong>```<아이디>.github.io```</strong>의 URL을 통해 배포가 가능하다 
 <br>
-<img src="./img/github_url_img.png" width=300>
+<img src="./img/github_url_img.PNG" width=300>
 <br>
 
 
