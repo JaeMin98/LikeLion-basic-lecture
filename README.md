@@ -12,5 +12,6 @@
 - <a href="./웹 기초/HTML.md">HTML</a>
 - <a href="./웹 기초/Bootstrap.md">Bootstrap</a>
 - <a href="./웹 기초/GitHub 배포.md">Github 배포</a>
-- <a href="./웹 기초/웹 기초 강의 실습/index.html">HTML+BootStrap 실습</a>
+[<a href="./웹 기초/웹 기초 강의 실습/index.html">HTML+BootStrap 실습 파일</a>]
+[[HTML+BootStrap 실습 링크](JaeMin98.github.io)]
 
