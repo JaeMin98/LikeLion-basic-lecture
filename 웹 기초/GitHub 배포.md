@@ -9,7 +9,7 @@
 ### 🔸GitHub를 통해 html 파일 배포시 유의점  
 GitHub를 통해 html파일을 배포할 때 <strong>index.html이 포함</strong>되도록 업로드를 하는 것을 권장함  
 <br>
-<img src="/img/github_index_img.png" width=300>
+<img src="./img/github_index_img.PNG" width=300>
 <br>
 
 
