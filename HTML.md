@@ -19,9 +19,9 @@ Hyper Text = Link
 
 
 ### HTML 주의점
-HTML은 정보를 만들고
-CSS를 이용해 꾸민다
-<strong>"HTML을 이용해 꾸미려하지 말기"</strong>
+HTML은 정보를 만들고  
+CSS를 이용해 꾸민다  
+<strong>"HTML을 이용해 꾸미려하지 말기"</strong>  
 
 
 
