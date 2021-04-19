@@ -106,5 +106,3 @@ p{
     - letter-spacing : 글자와 글자 사이의 간격을 조정함, 자간
         - 단위 사용
     - text-indent : 문단의 시작부에 들여쓰기를 함
-
-<img src="line_height.png" alt="Line Height Example"></img>
