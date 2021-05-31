@@ -21,3 +21,6 @@
 - <a href="./웹 기초/CSS .1.md">CSS.1</a>
 - <a href="./웹 기초/CSS .2.md">CSS.2</a>
 - <a href="./웹 기초/상속과 우선순위.md">상속과 우선순위</a>  
+
+### 🔸Django Settings
+- <a href="./웹 기초/Django_Settings.md">Django Settings</a>
