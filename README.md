@@ -24,3 +24,6 @@
 
 ### 🔸Django Settings
 - <a href="./웹 기초/Django_Settings.md">Django Settings</a>
+
+### 🔸Django
+- <a href="./웹 기초/Django.md">Django Settings</a>
