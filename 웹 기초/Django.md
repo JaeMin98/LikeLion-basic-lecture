@@ -1,7 +1,7 @@
 
 ### 🔸Django setting 복습
-- 1.가상환경 만들기 : python -m venv[가상환경명]
-- 2.가상환경 실행 : source[가상환경명]/bin/activate
+- 1.가상환경 만들기 : python -m venv myvenv
+- 2.가상환경 실행 : source myvenv/Scripts/activate
 - 3.django 다운 : pip install django
 - 4.프로젝트 생성 : django-admin startproject[프로젝트 이름]
 - 5.서버 가동 : python manage.py runserver
