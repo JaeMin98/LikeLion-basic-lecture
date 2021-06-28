@@ -24,6 +24,7 @@ settings.py파일 > TEMPLATES 의 DIRS > ['(ex)lionproject/templates'],
 ```
 <br>
 <br>
+
 ### 🔸Static과 Media
 #### 정적파일과 동적파일
 - 정적 파일 : 미리 서버에 저장되어 있는 파일, 서버에 저장된 그대로를 서비스해주는 파일
