@@ -1,5 +1,5 @@
 
-### 🔸Templete 상속
+### 🔸Template 상속
 각종 html파일에서 겹치는 부분을 base.html을 사용해 상속시켜 중복되는 코드를 방지하는 것
 <br>
 - 1.home.html 코드
