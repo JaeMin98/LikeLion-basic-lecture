@@ -23,22 +23,20 @@
 settings.py파일 > TEMPLATES 의 DIRS > ['(ex)lionproject/templates'],
 ```
 <br>
-<br>
-
 ### 🔸Static과 Media
 #### 정적파일과 동적파일
 - 정적 파일 : 미리 서버에 저장되어 있는 파일, 서버에 저장된 그대로를 서비스해주는 파일
 - 동적 파일 : 서버의 데이터들이 어느정도 가공된다음 보여지는 파일
-<br>
+
 #### 정적파일 종류
 - Static : 개발자가 서버를 개발할 때 미리 넣어놓은 정적파일(img,js,css)
 - Media : 사용자가 업로드 할 수있는 파일
-<br>
+
 #### 사진을 보여줄 때 클라이언트와 서버간 대화
 - 1.클라이언트 > 서버에 사진을 요청
 - 2.서버 > 사진의 url 제공
 따라서 media라는 폴더를 만들어 사용자가 업로드한 파일들을 모아놓아야 함
-<br>
+
 ### 🔸Form(입력공간)
 #### 기존의 form 방법과 비교하여 forms.py를 이용했을 때의 장점
 - 데이터베이스의 model이 변할 때마다 바꿀 필요가 없음
@@ -60,7 +58,7 @@ blogs = Blogs.objects.all('-pub_date')
 ...
 blogs =paginator.set_page(page)
 ```
-<br>
+
 #### QuerySet Method
 order_by : 최신글을 보여주고싶을 때는()
 blogs = Blogs.objects.order_by('-pub_date')
