@@ -51,7 +51,7 @@ settings.py파일 > TEMPLATES 의 DIRS > ['(ex)lionproject/templates'],
 - 2.서버에서 유저테이블에 회원정보를 저장
 - 3.클라이언트가 서버에 로그인 요청
 - 4.유저테이블에서 정보를 찾아서 응답
-
+- 
 ### 🔸Paginator
 #### Paginator란?
 paginator : 이용자가 많아짐에 따라 글이 많아지면 블로그 객체를 잘라서 보내주는 것
