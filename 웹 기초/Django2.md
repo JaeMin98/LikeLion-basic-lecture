@@ -62,6 +62,6 @@ blogs = Blogs.objects.all('-pub_date')
 blogs =paginator.set_page(page)
 ```
 <br>
-####QuerySet Method
+#### QuerySet Method
 order_by : 최신글을 보여주고싶을 때는()
 blogs = Blogs.objects.order_by('-pub_date')
