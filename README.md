@@ -27,3 +27,4 @@
 
 ### 🔸Django
 - <a href="./웹 기초/Django.md">Django Settings</a>
+- <a href="./웹 기초/Django2.md">Django(template 상속, Static, Media, Form, user, paginator)</a>
